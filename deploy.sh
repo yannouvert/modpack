@@ -20,8 +20,6 @@ for folder in ${folders[@]}; do
     done
 done
 
-exit
-
 echo "Pushing repos"
 
 for modpack in ${modpacks[@]}; do
