@@ -1,0 +1,13 @@
+filename = 'ItemsDisplayedForge-v1.2.2-1.20.1.jar'
+name = 'Items Displayed [Forge]'
+side = 'both'
+
+[download]
+hash = 'd93a9463d71e91f80b1156419653e802058594ca7faa48a3ca4fd18d32786f4162ab4022ed708c56150a3670648bfeb8d1b138b03910ba40e2550ce6e13ee8bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PuR4vDBo/versions/PebSbLTB/ItemsDisplayedForge-v1.2.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PuR4vDBo'
+version = 'PebSbLTB'

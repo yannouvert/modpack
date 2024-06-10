@@ -1,0 +1,13 @@
+filename = 'deepslatecutting-forge-1.7.0.jar'
+name = 'DeepslateCutting'
+side = 'both'
+
+[download]
+hash = '9fbbdfaf4c547a4ed331c792e9dca5cb8272c6e33630e95a0703b7b1170af5633fe04a263cb2cf2d871f852b057e0383c0ac1b62bf2f24f54c38cdd9296c2659'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IiuFShHs/versions/i8JlgQQI/deepslatecutting-forge-1.7.0.jar'
+
+[update.modrinth]
+mod-id = 'IiuFShHs'
+version = 'i8JlgQQI'

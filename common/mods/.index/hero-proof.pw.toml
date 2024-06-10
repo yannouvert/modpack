@@ -1,0 +1,13 @@
+filename = '[DEP]hero-proof-5.1.2.jar'
+name = 'Hero Proof'
+side = 'both'
+
+[download]
+hash = 'a3411be21788b8330e69d8cacda76cd63498b0d1a51fd2281a59921e494b6b120d5b2f1ec972f0185deea8c1f45fa3019e35c34c35db264f887c39cbeef0af12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GDmztpJg/versions/6BZ9d0Nb/hero-proof-5.1.2.jar'
+
+[update.modrinth]
+mod-id = 'GDmztpJg'
+version = '6BZ9d0Nb'

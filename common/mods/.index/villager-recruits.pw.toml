@@ -1,0 +1,13 @@
+filename = 'recruits-1.20.1-1.10.15.jar'
+name = 'Villager Recruits'
+side = 'both'
+
+[download]
+hash = '1471bc5b933a97d6dc8ea040e465e0bb1a966ce12d0f4bead0033ee30fa7da7cfba17ea232c7f4df0aa4cd74ff38ce2a33125b6be53d67e8808c7753b4651b23'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WOg9lm4u/versions/3Tfwyu5g/recruits-1.20.1-1.10.15.jar'
+
+[update.modrinth]
+mod-id = 'WOg9lm4u'
+version = '3Tfwyu5g'
