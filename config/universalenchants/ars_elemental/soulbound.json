@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:soulbounding",
+    "twilightforest:block_and_chain",
+    "mahoutsukai:proximity_projection_keys"
+  ],
+  "incompatible": []
+}

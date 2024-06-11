@@ -1,0 +1,78 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Kolte2OO",
+      "uniqueId": "7ddf3b28-c1e5-45ef-a1c5-ca8827ddcf08"
+    },
+    "time": 1718114407986,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TsLZOXp9ZG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kolte2OO",
+      "uniqueId": "7ddf3b28-c1e5-45ef-a1c5-ca8827ddcf08"
+    },
+    "time": 1718114406138,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KKzG1SbZ9C"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1718099139853,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hwlWQJ3B32"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "reza0310",
+      "uniqueId": "9486a95a-32e5-47ba-bb35-4e6001367025"
+    },
+    "time": 1718098795793,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lDmVRu2ZJW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kolte2OO",
+      "uniqueId": "7ddf3b28-c1e5-45ef-a1c5-ca8827ddcf08"
+    },
+    "time": 1718098727639,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/suQRxVYpC3"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1718098520558,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HOKmWVBC0j"
+    }
+  }
+]

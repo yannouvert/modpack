@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "domesticationinnovation:bubbling",
+    "domesticationinnovation:chain_lightning",
+    "domesticationinnovation:magnetic",
+    "domesticationinnovation:disc_jockey",
+    "domesticationinnovation:blazing_protection"
+  ]
+}

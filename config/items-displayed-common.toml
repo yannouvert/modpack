@@ -1,0 +1,12 @@
+
+[Features]
+	#Should placeable tooltips be enabled?
+	Tooltips = true
+	#Should the item display tooltip be enabled?
+	Display-Tooltip = true
+	#Should sneak-place be required?
+	Sneak-Place = true
+	#The rotation of the item display.
+	#Range: 5 ~ 90
+	Display-Rotation = 45
+

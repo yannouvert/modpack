@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "lost_aether_content:swetty_mask"
+  ],
+  "incompatible": []
+}

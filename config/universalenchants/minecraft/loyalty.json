@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "aether_redux:spear_of_the_blight",
+    "cataclysm:coral_spear",
+    "cataclysm:coral_bardiche",
+    "supplementaries:slingshot"
+  ],
+  "incompatible": [
+    "minecraft:riptide"
+  ]
+}

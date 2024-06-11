@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "lost_aether_content:swetty_mask"
+  ],
+  "incompatible": [
+    "minecraft:blast_protection",
+    "minecraft:protection",
+    "minecraft:fire_protection",
+    "minecraft:projectile_protection"
+  ]
+}

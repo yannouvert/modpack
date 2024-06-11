@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "the_bumblezone:crystal_cannon",
+    "aether:golden_dart_shooter",
+    "aether:poison_dart_shooter",
+    "aether:enchanted_dart_shooter",
+    "aether_redux:veridium_dart_shooter",
+    "aether_redux:infused_veridium_dart_shooter",
+    "create:potato_cannon",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": []
+}

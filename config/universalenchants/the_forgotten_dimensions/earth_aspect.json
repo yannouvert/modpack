@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "aether_redux:spear_of_the_blight",
+    "farmersdelight:skillet",
+    "jousting:lance_wood",
+    "jousting:lance_iron",
+    "jousting:lance_gold",
+    "jousting:lance_emerald",
+    "jousting:lance_diamond",
+    "jousting:lance_netherite",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:the_incinerator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge",
+    "mahoutsukai:proximity_projection_keys",
+    "mahoutsukai:rhongomyniad",
+    "irons_spellbooks:graybeard_staff",
+    "irons_spellbooks:artificer_cane",
+    "irons_spellbooks:ice_staff",
+    "irons_spellbooks:blood_staff"
+  ],
+  "incompatible": [
+    "the_forgotten_dimensions:water_aspect",
+    "the_forgotten_dimensions:electric_aspect"
+  ]
+}
