@@ -1,0 +1,13 @@
+filename = 'vanilla_degus-1.20.x-v1.5.1-forge.jar'
+name = 'Vanilla Degus'
+side = 'both'
+
+[download]
+hash = 'c39365ceb919d816e63ac5d11ea5372d0cb3682c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5120123
+project-id = 463073

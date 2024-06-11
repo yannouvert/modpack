@@ -1,0 +1,13 @@
+filename = 'mcw-roofs-2.3.0-mc1.20.1forge.jar'
+name = "Macaw's Roofs"
+side = 'both'
+
+[download]
+hash = '388ca0d63c3c622939e05ff90440cd9807b1b925e60c11003ba415f4d2c880b5eabcb6bf546c77e0aa0bfe308f2a8dcc2cba05045d9e575e0ce73c1057fac05d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B8jaH3P1/versions/zkkzyEgT/mcw-roofs-2.3.0-mc1.20.1forge.jar'
+
+[update.modrinth]
+mod-id = 'B8jaH3P1'
+version = 'zkkzyEgT'

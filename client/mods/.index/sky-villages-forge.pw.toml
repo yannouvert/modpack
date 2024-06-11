@@ -1,0 +1,13 @@
+filename = 'SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar'
+name = 'Sky Villages [Forge]'
+side = 'both'
+
+[download]
+hash = '3f7b0e8594556cd861c3c3bd470f5f41da250784'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5401804
+project-id = 545467
