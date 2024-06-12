@@ -5,7 +5,7 @@
 	enabled = true
 	#Cost
 	#Range: > -2147483648
-	cost = 10
+	cost = 30
 	#Is Starter Glyph?
 	starter = true
 	#The maximum number of times this glyph may appear in a single spell
@@ -22,5 +22,5 @@
 	augment_cost_overrides = []
 	#Max lifespan of the projectile, in seconds.
 	#Range: > 0
-	max_lifespan = 60
+	max_lifespan = 10
 

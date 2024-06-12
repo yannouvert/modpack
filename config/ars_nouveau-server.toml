@@ -3,7 +3,7 @@
 [mana]
 	#Base mana regen in seconds
 	#Range: > 0
-	baseRegen = 5
+	baseRegen = 3
 	#Base max mana
 	#Range: > 0
 	baseMax = 100
@@ -41,11 +41,11 @@
 [item]
 	#Cost per glyph in a codex
 	#Range: > 0
-	codexCost = 10
+	codexCost = 20
 
 [warp_portals]
 	#Enable warp portals?
-	enableWarpPortals = true
+	enableWarpPortals = false
 
 #Beta Features
 [beta]
